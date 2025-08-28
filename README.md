@@ -55,25 +55,17 @@ Sou estudante de Engenharia de Software na Universidade Católica de Brasília. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-<img 
-    align="left" 
-    alt="C" 
-    title="linkedin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/>
 
 <div>
-    <a href="www.linkedin.com/in/ludimila-guerra-96982234a" target="_blank">
-        <img 
+        <img
     align="left" 
     alt="C" 
     title="linkedin"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/> 
+    <a href="www.linkedin.com/in/ludimila-guerra-96982234a" target="_blank">
+    />
 </div>
 <!--
 **LudimilaGuerra/LudimilaGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
